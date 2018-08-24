@@ -1,0 +1,13 @@
+.\objects\usart_service.o: ..\inc\USART_service.c
+.\objects\usart_service.o: ..\inc\USART_service.h
+.\objects\usart_service.o: ..\..\..\Drivers\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h
+.\objects\usart_service.o: ..\..\..\Drivers\CMSIS\Device\ST\STM32L1xx\Include\stm32l152xb.h
+.\objects\usart_service.o: ..\..\..\Drivers\CMSIS\Include\core_cm3.h
+.\objects\usart_service.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart_service.o: ..\..\..\Drivers\CMSIS\Include\core_cmInstr.h
+.\objects\usart_service.o: ..\..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+.\objects\usart_service.o: ..\..\..\Drivers\CMSIS\Include\core_cmFunc.h
+.\objects\usart_service.o: ..\..\..\Drivers\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h
+.\objects\usart_service.o: ..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_ll_gpio.h
+.\objects\usart_service.o: ..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_ll_usart.h
+.\objects\usart_service.o: ..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_ll_bus.h
