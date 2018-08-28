@@ -517,18 +517,18 @@ ARM Macro Assembler    Page 8
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
 ork --depend=.\objects\startup_stm32l152xb.d -o.\objects\startup_stm32l152xb.o 
--IC:\Keil_v5\ARM\RV31\Inc -IC:\Users\Goragod\Desktop\Workspace\STM32L152_CPE-21
+-IC:\Users\Goragod\Desktop\Workspace\CPE-312-1-61\Project\STM32L152RB-TNI\MDK-A
 
 
 
 ARM Macro Assembler    Page 9 
 
 
-4-312\Project\STM32L152RB-TNI\MDK-ARM\RTE -IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_
-DFP\1.2.0\Device\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__RTX SETA
- 1" --predefine="__EVAL SETA 1" --predefine="__UVISION_VERSION SETA 520" --pred
-efine="STM32L152xB SETA 1" --list=.\listings\startup_stm32l152xb.lst ..\..\..\D
-rivers\CMSIS\Device\ST\STM32L1xx\Source\Templates\arm\startup_stm32l152xb.s
+RM\RTE -IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include -IC:\Keil_
+v5\ARM\CMSIS\Include --predefine="__EVAL SETA 1" --predefine="__UVISION_VERSION
+ SETA 520" --predefine="STM32L152xB SETA 1" --list=.\listings\startup_stm32l152
+xb.lst ..\..\..\Drivers\CMSIS\Device\ST\STM32L1xx\Source\Templates\arm\startup_
+stm32l152xb.s
 
 
 
@@ -1491,4 +1491,4 @@ plates\arm\startup_stm32l152xb.s
       None
 Comment: __use_two_region_memory unused
 3 symbols
-412 symbols in table
+411 symbols in table
